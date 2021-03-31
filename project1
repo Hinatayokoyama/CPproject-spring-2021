@@ -10,6 +10,7 @@
 \maketitle
 \tableofcontents
 \newpage
+\input{project2}
 \input{project5}
 \input{project6}
 \end{document}
