@@ -16,7 +16,8 @@ Years&Dollars\\
 \end{tabular}
 \end{center}
 \begin{figure}
-	\includegraphics[scale=0.75]{projectgraph]
+	\includegraphics[scale=0.75]{projectgraph}
 	\caption{Relationship between the amount of the payment and years}
 	\label{fig1}
 \end{figure}
+

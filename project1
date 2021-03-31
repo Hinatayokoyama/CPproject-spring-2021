@@ -11,6 +11,9 @@
 \tableofcontents
 \newpage
 \input{project2}
+\input{project3}
+\input{project4}
+\newpage
 \input{project5}
 \input{project6}
 \end{document}
