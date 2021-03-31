@@ -4,5 +4,6 @@ The given data show the tuition and the fees for education at UCA. An upward tre
 	y=239x-473685
 	\label{lineareqn}
 \end{equation}
-In this equation \ref{lineareqn}, x represents years, and y represents dollars. The cost of the tuition and fees will increase over years according to the equation. 
+In this equation \ref{lineareqn}, x represents years, and y represents dollars.For example, in ten years(2031), the total cost of the tuition and the fees will be $y=239*2031-473685=11724$. The cost of the tuition and fees will increase over years according to the equation. 
+
 
