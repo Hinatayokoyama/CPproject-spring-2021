@@ -1,4 +1,4 @@
 # CPproject-spring-2021
 This is for data analysis project in Dr. Lusk's computational physics class in the spring semester 2021. 
-I made the files that satisfy the requirement that he expected and shared all of them in Github. Their descriptions are below:
+I made the files that satisfy the requirements that he expected and shared all of them in Github. Their descriptions are below:
 My project analyzed and visualized the transition of the tuition and the fees over the last ten years in University of Central Arkansas(UCA). The data was obtained from UCA's website that had been provided by Finance and Administration of UCA. I collected and plotted the data with the text file and loaded it through Python in order to visualize each data point and the tendency over the past ten years. After the analysis of the data, I could express the relationship between the amount of payment and time with the linear equation. The equation implies that the cost of the tuition will increase over years since the amount of the payment is propotional to time. 
