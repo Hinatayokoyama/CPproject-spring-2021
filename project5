@@ -1,9 +1,5 @@
 \section{Discussion}
-<<<<<<< HEAD
 The given data show the tuition and the fees for education at UCA. Each dat represents the amount of the payment each year. The line show the tendency of the amount of the payment over the past ten years. An upward trend in the tuition and the fees can be seen from the graph except for ones in 2015. Since the amount of the payment is propotional to years, the relationship in the two factors can be expressed as a linear equation.
-=======
-The given data show the tuition and the fees for education at UCA. Each dat represents the amount of the payment each year. The line shows the relationship between the amount of the payment and years. An upward trend in the tuition and the fees can be seen from the graph except for ones in 2015. Since the amount of the payment is propotional to years, the relationship in the two factors can be expressed as a linear equation.
->>>>>>> 3fdf16620355d6fabcdcf52067a918adce4bae2d
 \begin{equation}
 	y=239x-473685
 	\label{lineareqn}
