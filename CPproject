@@ -2,12 +2,13 @@ import numpy as np
 #load the data file called CPproject.txt into a Numpy array
 data=np.loadtxt('data',float)
 x=data[:,0]
-y=data[:,0]
+y=data[:,1]
 N=len(x)
 #find the linear equation that expresses this graph 
 dx=max(x)-min(x)
 dy=max(y)-min(y)
 a=int(dy/dx)
+print(x,y)
 #store each point in order to make the linear equation
 list_line=[]
 for i in range(0,N):
