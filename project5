@@ -1,0 +1,8 @@
+\section{Discussion}
+The given data show the tuition and the fees for education at UCA. An upward trend in the tuition and the fees can be seen from the graph except for ones in 2015. Since the amount of the payment is propotional to years, the relationship in the two factors can be expressed as a linear equation.
+\begin{equation}
+	y=239x-473685
+	\label{lineareqn}
+\end{equation}
+In this equation \ref{lineareqn}, x represents years, and y represents dollars. The cost of the tuition and fees will increase over years according to the equation. 
+

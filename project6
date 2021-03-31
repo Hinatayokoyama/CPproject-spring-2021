@@ -1,0 +1,5 @@
+\section{summary}
+This project analyzed and visualized the raw data about the transition of the cost of the tuition and the fees in UCA over the past ten years with LaTeX and Python. The graph made by the data showed the relationship between x and y elementswith the linear equation. According to the linear equation, the amount of the payment will increase for the future since the x and y elements are propotional to each other.
+\bibliographystyle{plain}
+\bibliography{project.bib}
+
