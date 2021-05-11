@@ -1,2 +1,0 @@
-\section{Abstract}
-This project analyzed and visualized the tuition and the fees of University of Central Arkansas (UCA) over the past ten years with LaTeX and Python. The data is received from the UCA's website provided by Finance and Administration of UCA \cite{web:lang:stats}. The graph \ref{fig1} shows the relationship between the amount of the payment and years with the linear equation \ref{lineareqn}.Followd with the equation, the cost will increase over years.
